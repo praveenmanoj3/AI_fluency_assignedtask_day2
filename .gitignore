@@ -4,5 +4,6 @@ __pycache__/
 *.pyc
 *.pyo
 output/
-OUTPUT 2/
+!output 2/
+!output 2/**
 .pytest_cache/
